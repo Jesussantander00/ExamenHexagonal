@@ -1,0 +1,17 @@
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Infrastructure.deps.json
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Infrastructure.dll
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Infrastructure.pdb
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Application.dll
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Domain.dll
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Domain.pdb
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\bin\Debug\net10.0\ExamenHexagonal.Application.pdb
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.AssemblyInfo.cs
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHe.F646A8F8.Up2Date
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.dll
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\refint\ExamenHexagonal.Infrastructure.dll
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ExamenHexagonal.Infrastructure.pdb
+C:\Users\USUARIO\ExamenHexagonal.Infrastructure\obj\Debug\net10.0\ref\ExamenHexagonal.Infrastructure.dll

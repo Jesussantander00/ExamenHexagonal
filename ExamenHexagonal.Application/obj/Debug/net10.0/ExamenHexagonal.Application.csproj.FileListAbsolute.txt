@@ -1,0 +1,15 @@
+C:\Users\USUARIO\ExamenHexagonal.Application\bin\Debug\net10.0\ExamenHexagonal.Application.deps.json
+C:\Users\USUARIO\ExamenHexagonal.Application\bin\Debug\net10.0\ExamenHexagonal.Application.dll
+C:\Users\USUARIO\ExamenHexagonal.Application\bin\Debug\net10.0\ExamenHexagonal.Application.pdb
+C:\Users\USUARIO\ExamenHexagonal.Application\bin\Debug\net10.0\ExamenHexagonal.Domain.dll
+C:\Users\USUARIO\ExamenHexagonal.Application\bin\Debug\net10.0\ExamenHexagonal.Domain.pdb
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.AssemblyInfo.cs
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHe.93ECA32F.Up2Date
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.dll
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\refint\ExamenHexagonal.Application.dll
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ExamenHexagonal.Application.pdb
+C:\Users\USUARIO\ExamenHexagonal.Application\obj\Debug\net10.0\ref\ExamenHexagonal.Application.dll

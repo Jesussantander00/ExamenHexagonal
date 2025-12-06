@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ExamenHexagonal.Api/ExamenHexagonal.Api.csproj" />
+  <Project Path="ExamenHexagonal.Application/ExamenHexagonal.Application.csproj" />
+  <Project Path="ExamenHexagonal.Domain/ExamenHexagonal.Domain.csproj" />
+  <Project Path="ExamenHexagonal.Infrastructure/ExamenHexagonal.Infrastructure.csproj" />
+</Solution>
+

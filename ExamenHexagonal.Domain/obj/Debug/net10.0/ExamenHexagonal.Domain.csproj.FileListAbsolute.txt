@@ -1,0 +1,11 @@
+C:\Users\USUARIO\ExamenHexagonal.Domain\bin\Debug\net10.0\ExamenHexagonal.Domain.deps.json
+C:\Users\USUARIO\ExamenHexagonal.Domain\bin\Debug\net10.0\ExamenHexagonal.Domain.dll
+C:\Users\USUARIO\ExamenHexagonal.Domain\bin\Debug\net10.0\ExamenHexagonal.Domain.pdb
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ExamenHexagonal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ExamenHexagonal.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ExamenHexagonal.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ExamenHexagonal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ExamenHexagonal.Domain.dll
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\refint\ExamenHexagonal.Domain.dll
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ExamenHexagonal.Domain.pdb
+C:\Users\USUARIO\ExamenHexagonal.Domain\obj\Debug\net10.0\ref\ExamenHexagonal.Domain.dll
